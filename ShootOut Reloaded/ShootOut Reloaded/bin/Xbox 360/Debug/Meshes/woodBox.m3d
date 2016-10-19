@@ -1,0 +1,1743 @@
+*****woodBox.m3d*****
+#Materials 1
+#Vertices 324
+#Triangles 108
+
+*****Subsets*****
+wood_box_diff.dds
+wood_box_spec.dds
+wood_box_norm.dds
+Reflectivity 0 0 0
+Diffuse_Material 0 0 0
+Specular_Material 0 0 0
+
+*****Vertices*****
+Position: -2.95531 0.433712 2.45291
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4899 -0.5285
+
+Position: -2.95531 5.33953 2.45291
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.0144 -0.5285
+
+Position: -2.8371 5.33953 2.45291
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.0144 -0.5104
+
+Position: -2.95531 0.433712 2.45291
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4899 -0.5285
+
+Position: -2.8371 5.33953 2.45291
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.0144 -0.5104
+
+Position: -2.8371 0.433712 2.45291
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4899 -0.5104
+
+Position: -2.95531 0.433711 -2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0144 -0.5104
+
+Position: -2.95531 0.433712 2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4899 -0.5104
+
+Position: -2.8371 0.433712 2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4899 -0.5286
+
+Position: -2.95531 0.433711 -2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0144 -0.5104
+
+Position: -2.8371 0.433712 2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4899 -0.5286
+
+Position: -2.8371 0.433711 -2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0144 -0.5286
+
+Position: -2.95531 5.33953 -2.45291
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4899 -0.5286
+
+Position: -2.95531 0.433711 -2.45291
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.0144 -0.5286
+
+Position: -2.8371 0.433711 -2.45291
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.0144 -0.5104
+
+Position: -2.95531 5.33953 -2.45291
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4899 -0.5286
+
+Position: -2.8371 0.433711 -2.45291
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.0144 -0.5104
+
+Position: -2.8371 5.33953 -2.45291
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4899 -0.5104
+
+Position: -2.95531 5.33953 2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.4899 -0.5286
+
+Position: -2.95531 5.33953 -2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.0144 -0.5286
+
+Position: -2.8371 5.33953 -2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.0144 -0.5104
+
+Position: -2.95531 5.33953 2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.4899 -0.5286
+
+Position: -2.8371 5.33953 -2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.0144 -0.5104
+
+Position: -2.8371 5.33953 2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.4899 -0.5104
+
+Position: -2.45291 5.84194 2.45291
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4899 -0.5286
+
+Position: 2.45291 5.84194 2.45291
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.0144 -0.5286
+
+Position: 2.45291 5.72372 2.45291
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.0144 -0.5104
+
+Position: -2.45291 5.84194 2.45291
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4899 -0.5286
+
+Position: 2.45291 5.72372 2.45291
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.0144 -0.5104
+
+Position: -2.45291 5.72372 2.45291
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4899 -0.5104
+
+Position: -2.45291 5.84194 -2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.0144 -0.5104
+
+Position: -2.45291 5.84194 2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.4899 -0.5104
+
+Position: -2.45291 5.72372 2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.4899 -0.5286
+
+Position: -2.45291 5.84194 -2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.0144 -0.5104
+
+Position: -2.45291 5.72372 2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.4899 -0.5286
+
+Position: -2.45291 5.72372 -2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.0144 -0.5286
+
+Position: 2.45291 5.84194 -2.45291
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.0144 -0.5104
+
+Position: -2.45291 5.84194 -2.45291
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4899 -0.5104
+
+Position: -2.45291 5.72372 -2.45291
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4899 -0.5286
+
+Position: 2.45291 5.84194 -2.45291
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.0144 -0.5104
+
+Position: -2.45291 5.72372 -2.45291
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4899 -0.5286
+
+Position: 2.45291 5.72372 -2.45291
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.0144 -0.5286
+
+Position: 2.45291 5.84194 2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.4899 -0.5285
+
+Position: 2.45291 5.84194 -2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.0144 -0.5285
+
+Position: 2.45291 5.72372 -2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.0144 -0.5103
+
+Position: 2.45291 5.84194 2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.4899 -0.5285
+
+Position: 2.45291 5.72372 -2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.0144 -0.5103
+
+Position: 2.45291 5.72372 2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.4899 -0.5103
+
+Position: 2.95531 5.33953 2.45291
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.0144 -0.5104
+
+Position: 2.95531 0.433712 2.45291
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4899 -0.5104
+
+Position: 2.8371 0.433712 2.45291
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4899 -0.5286
+
+Position: 2.95531 5.33953 2.45291
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.0144 -0.5104
+
+Position: 2.8371 0.433712 2.45291
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4899 -0.5286
+
+Position: 2.8371 5.33953 2.45291
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.0144 -0.5286
+
+Position: 2.95531 5.33953 -2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.0144 -0.5104
+
+Position: 2.95531 5.33953 2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.4899 -0.5104
+
+Position: 2.8371 5.33953 2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.4899 -0.5286
+
+Position: 2.95531 5.33953 -2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.0144 -0.5104
+
+Position: 2.8371 5.33953 2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.4899 -0.5286
+
+Position: 2.8371 5.33953 -2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.0144 -0.5286
+
+Position: 2.95531 0.433711 -2.45291
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.0144 -0.5104
+
+Position: 2.95531 5.33953 -2.45291
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4899 -0.5104
+
+Position: 2.8371 5.33953 -2.45291
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4899 -0.5286
+
+Position: 2.95531 0.433711 -2.45291
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.0144 -0.5104
+
+Position: 2.8371 5.33953 -2.45291
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4899 -0.5286
+
+Position: 2.8371 0.433711 -2.45291
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.0144 -0.5286
+
+Position: 2.95531 0.433712 2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4899 -0.5285
+
+Position: 2.95531 0.433711 -2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0144 -0.5285
+
+Position: 2.8371 0.433711 -2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0144 -0.5103
+
+Position: 2.95531 0.433712 2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4899 -0.5285
+
+Position: 2.8371 0.433711 -2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0144 -0.5103
+
+Position: 2.8371 0.433712 2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4899 -0.5103
+
+Position: 2.45291 -0.068692 2.45291
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.0144 -0.5104
+
+Position: -2.45291 -0.068692 2.45291
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4899 -0.5104
+
+Position: -2.45291 0.049521 2.45291
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4899 -0.5286
+
+Position: 2.45291 -0.068692 2.45291
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.0144 -0.5104
+
+Position: -2.45291 0.049521 2.45291
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4899 -0.5286
+
+Position: 2.45291 0.049521 2.45291
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.0144 -0.5286
+
+Position: 2.45291 -0.068692 -2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.0144 -0.5104
+
+Position: 2.45291 -0.068692 2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.4899 -0.5104
+
+Position: 2.45291 0.049521 2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.4899 -0.5286
+
+Position: 2.45291 -0.068692 -2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.0144 -0.5104
+
+Position: 2.45291 0.049521 2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.4899 -0.5286
+
+Position: 2.45291 0.049521 -2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.0144 -0.5286
+
+Position: -2.45291 -0.068692 -2.45291
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4899 -0.5285
+
+Position: 2.45291 -0.068692 -2.45291
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.0144 -0.5285
+
+Position: 2.45291 0.049521 -2.45291
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.0144 -0.5103
+
+Position: -2.45291 -0.068692 -2.45291
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4899 -0.5285
+
+Position: 2.45291 0.049521 -2.45291
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.0144 -0.5103
+
+Position: -2.45291 0.049521 -2.45291
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4899 -0.5103
+
+Position: -2.45291 -0.068692 2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.4899 -0.5286
+
+Position: -2.45291 -0.068692 -2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.0144 -0.5286
+
+Position: -2.45291 0.049521 -2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.0144 -0.5104
+
+Position: -2.45291 -0.068692 2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.4899 -0.5286
+
+Position: -2.45291 0.049521 -2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.0144 -0.5104
+
+Position: -2.45291 0.049521 2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.4899 -0.5104
+
+Position: 2.45291 0.433711 -2.95531
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4899 -0.5286
+
+Position: -2.45291 0.433711 -2.95531
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0144 -0.5286
+
+Position: -2.45291 0.433711 -2.8371
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0144 -0.5104
+
+Position: 2.45291 0.433711 -2.95531
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4899 -0.5286
+
+Position: -2.45291 0.433711 -2.8371
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0144 -0.5104
+
+Position: 2.45291 0.433711 -2.8371
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4899 -0.5104
+
+Position: 2.45291 5.33953 -2.95531
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.4899 -0.5286
+
+Position: 2.45291 0.433711 -2.95531
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.0144 -0.5286
+
+Position: 2.45291 0.433711 -2.8371
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.0144 -0.5104
+
+Position: 2.45291 5.33953 -2.95531
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.4899 -0.5286
+
+Position: 2.45291 0.433711 -2.8371
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.0144 -0.5104
+
+Position: 2.45291 5.33953 -2.8371
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.4899 -0.5104
+
+Position: -2.45291 5.33953 -2.95531
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.4899 -0.5285
+
+Position: 2.45291 5.33953 -2.95531
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.0144 -0.5285
+
+Position: 2.45291 5.33953 -2.8371
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.0144 -0.5104
+
+Position: -2.45291 5.33953 -2.95531
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.4899 -0.5285
+
+Position: 2.45291 5.33953 -2.8371
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.0144 -0.5104
+
+Position: -2.45291 5.33953 -2.8371
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.4899 -0.5104
+
+Position: -2.45291 0.433711 -2.95531
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.4899 -0.5286
+
+Position: -2.45291 5.33953 -2.95531
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.0144 -0.5286
+
+Position: -2.45291 5.33953 -2.8371
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.0144 -0.5104
+
+Position: -2.45291 0.433711 -2.95531
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.4899 -0.5286
+
+Position: -2.45291 5.33953 -2.8371
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.0144 -0.5104
+
+Position: -2.45291 0.433711 -2.8371
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.4899 -0.5104
+
+Position: -2.45291 5.33953 2.95531
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.0144 -0.5103
+
+Position: -2.45291 0.433712 2.95531
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.4899 -0.5103
+
+Position: -2.45291 0.433712 2.8371
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.4899 -0.5285
+
+Position: -2.45291 5.33953 2.95531
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.0144 -0.5103
+
+Position: -2.45291 0.433712 2.8371
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.4899 -0.5285
+
+Position: -2.45291 5.33953 2.8371
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.0144 -0.5285
+
+Position: 2.45291 5.33953 2.95531
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.0144 -0.5103
+
+Position: -2.45291 5.33953 2.95531
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.4899 -0.5103
+
+Position: -2.45291 5.33953 2.8371
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.4899 -0.5285
+
+Position: 2.45291 5.33953 2.95531
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.0144 -0.5103
+
+Position: -2.45291 5.33953 2.8371
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.4899 -0.5285
+
+Position: 2.45291 5.33953 2.8371
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.0144 -0.5285
+
+Position: 2.45291 0.433712 2.95531
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.0144 -0.5103
+
+Position: 2.45291 5.33953 2.95531
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.4899 -0.5103
+
+Position: 2.45291 5.33953 2.8371
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.4899 -0.5285
+
+Position: 2.45291 0.433712 2.95531
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.0144 -0.5103
+
+Position: 2.45291 5.33953 2.8371
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.4899 -0.5285
+
+Position: 2.45291 0.433712 2.8371
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.0144 -0.5285
+
+Position: -2.45291 0.433712 2.95531
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0144 -0.5103
+
+Position: 2.45291 0.433712 2.95531
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4899 -0.5103
+
+Position: 2.45291 0.433712 2.8371
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4899 -0.5285
+
+Position: -2.45291 0.433712 2.95531
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0144 -0.5103
+
+Position: 2.45291 0.433712 2.8371
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4899 -0.5285
+
+Position: -2.45291 0.433712 2.8371
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0144 -0.5285
+
+Position: -2.95531 -0.068692 2.95531
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.5083 -0.5058
+
+Position: -2.95531 5.84194 2.95531
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.5083 -0.9903
+
+Position: -2.95531 5.33953 2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.5495 -0.9491
+
+Position: -2.95531 -0.068692 2.95531
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.5083 -0.5058
+
+Position: -2.95531 5.33953 2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.5495 -0.9491
+
+Position: -2.95531 0.433712 2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.5495 -0.547
+
+Position: -2.95531 -0.068692 -2.95531
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.9928 -0.5058
+
+Position: -2.95531 -0.068692 2.95531
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.5083 -0.5058
+
+Position: -2.95531 0.433712 2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.5495 -0.547
+
+Position: -2.95531 -0.068692 -2.95531
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.9928 -0.5058
+
+Position: -2.95531 0.433712 2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.5495 -0.547
+
+Position: -2.95531 0.433711 -2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.9516 -0.547
+
+Position: -2.95531 5.84194 -2.95531
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.9928 -0.9903
+
+Position: -2.95531 -0.068692 -2.95531
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.9928 -0.5058
+
+Position: -2.95531 0.433711 -2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.9516 -0.547
+
+Position: -2.95531 5.84194 -2.95531
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.9928 -0.9903
+
+Position: -2.95531 0.433711 -2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.9516 -0.547
+
+Position: -2.95531 5.33953 -2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.9516 -0.9491
+
+Position: -2.95531 5.84194 2.95531
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.5083 -0.9903
+
+Position: -2.95531 5.84194 -2.95531
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.9928 -0.9903
+
+Position: -2.95531 5.33953 -2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.9516 -0.9491
+
+Position: -2.95531 5.84194 2.95531
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.5083 -0.9903
+
+Position: -2.95531 5.33953 -2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.9516 -0.9491
+
+Position: -2.95531 5.33953 2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.5495 -0.9491
+
+Position: -2.95531 5.84194 2.95531
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4974 -0.4976
+
+Position: 2.95531 5.84194 2.95531
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0129 -0.4976
+
+Position: 2.45291 5.84194 2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0541 -0.4564
+
+Position: -2.95531 5.84194 2.95531
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4974 -0.4976
+
+Position: 2.45291 5.84194 2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0541 -0.4564
+
+Position: -2.45291 5.84194 2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4563 -0.4564
+
+Position: -2.95531 5.84194 -2.95531
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4974 -0.0131
+
+Position: -2.95531 5.84194 2.95531
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4974 -0.4976
+
+Position: -2.45291 5.84194 2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4563 -0.4564
+
+Position: -2.95531 5.84194 -2.95531
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4974 -0.0131
+
+Position: -2.45291 5.84194 2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4563 -0.4564
+
+Position: -2.45291 5.84194 -2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4563 -0.0542
+
+Position: 2.95531 5.84194 -2.95531
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0129 -0.0131
+
+Position: -2.95531 5.84194 -2.95531
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4974 -0.0131
+
+Position: -2.45291 5.84194 -2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4563 -0.0542
+
+Position: 2.95531 5.84194 -2.95531
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0129 -0.0131
+
+Position: -2.45291 5.84194 -2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4563 -0.0542
+
+Position: 2.45291 5.84194 -2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0541 -0.0542
+
+Position: 2.95531 5.84194 2.95531
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0129 -0.4976
+
+Position: 2.95531 5.84194 -2.95531
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0129 -0.0131
+
+Position: 2.45291 5.84194 -2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0541 -0.0542
+
+Position: 2.95531 5.84194 2.95531
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0129 -0.4976
+
+Position: 2.45291 5.84194 -2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0541 -0.0542
+
+Position: 2.45291 5.84194 2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0541 -0.4564
+
+Position: 2.95531 5.84194 2.95531
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.5083 -0.9903
+
+Position: 2.95531 -0.068692 2.95531
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.5083 -0.5058
+
+Position: 2.95531 0.433712 2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.5495 -0.547
+
+Position: 2.95531 5.84194 2.95531
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.5083 -0.9903
+
+Position: 2.95531 0.433712 2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.5495 -0.547
+
+Position: 2.95531 5.33953 2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.5495 -0.9491
+
+Position: 2.95531 5.84194 -2.95531
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.9928 -0.9903
+
+Position: 2.95531 5.84194 2.95531
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.5083 -0.9903
+
+Position: 2.95531 5.33953 2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.5495 -0.9491
+
+Position: 2.95531 5.84194 -2.95531
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.9928 -0.9903
+
+Position: 2.95531 5.33953 2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.5495 -0.9491
+
+Position: 2.95531 5.33953 -2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.9516 -0.9491
+
+Position: 2.95531 -0.068692 -2.95531
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.9928 -0.5058
+
+Position: 2.95531 5.84194 -2.95531
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.9928 -0.9903
+
+Position: 2.95531 5.33953 -2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.9516 -0.9491
+
+Position: 2.95531 -0.068692 -2.95531
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.9928 -0.5058
+
+Position: 2.95531 5.33953 -2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.9516 -0.9491
+
+Position: 2.95531 0.433711 -2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.9516 -0.547
+
+Position: 2.95531 -0.068692 2.95531
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.5083 -0.5058
+
+Position: 2.95531 -0.068692 -2.95531
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.9928 -0.5058
+
+Position: 2.95531 0.433711 -2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.9516 -0.547
+
+Position: 2.95531 -0.068692 2.95531
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.5083 -0.5058
+
+Position: 2.95531 0.433711 -2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.9516 -0.547
+
+Position: 2.95531 0.433712 2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.5495 -0.547
+
+Position: 2.95531 -0.068692 2.95531
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.5083 -0.4976
+
+Position: -2.95531 -0.068692 2.95531
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.9928 -0.4976
+
+Position: -2.45291 -0.068692 2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.9516 -0.4564
+
+Position: 2.95531 -0.068692 2.95531
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.5083 -0.4976
+
+Position: -2.45291 -0.068692 2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.9516 -0.4564
+
+Position: 2.45291 -0.068692 2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.5494 -0.4564
+
+Position: 2.95531 -0.068692 -2.95531
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.5083 -0.0131
+
+Position: 2.95531 -0.068692 2.95531
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.5083 -0.4976
+
+Position: 2.45291 -0.068692 2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.5494 -0.4564
+
+Position: 2.95531 -0.068692 -2.95531
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.5083 -0.0131
+
+Position: 2.45291 -0.068692 2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.5494 -0.4564
+
+Position: 2.45291 -0.068692 -2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.5494 -0.0542
+
+Position: -2.95531 -0.068692 -2.95531
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.9928 -0.0131
+
+Position: 2.95531 -0.068692 -2.95531
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.5083 -0.0131
+
+Position: 2.45291 -0.068692 -2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.5494 -0.0542
+
+Position: -2.95531 -0.068692 -2.95531
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.9928 -0.0131
+
+Position: 2.45291 -0.068692 -2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.5494 -0.0542
+
+Position: -2.45291 -0.068692 -2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.9516 -0.0542
+
+Position: -2.95531 -0.068692 2.95531
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.9928 -0.4976
+
+Position: -2.95531 -0.068692 -2.95531
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.9928 -0.0131
+
+Position: -2.45291 -0.068692 -2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.9516 -0.0542
+
+Position: -2.95531 -0.068692 2.95531
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.9928 -0.4976
+
+Position: -2.45291 -0.068692 -2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.9516 -0.0542
+
+Position: -2.45291 -0.068692 2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.9516 -0.4564
+
+Position: 2.95531 -0.068692 -2.95531
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.013 -0.5058
+
+Position: -2.95531 -0.068692 -2.95531
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4975 -0.5058
+
+Position: -2.45291 0.433711 -2.95531
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4563 -0.547
+
+Position: 2.95531 -0.068692 -2.95531
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.013 -0.5058
+
+Position: -2.45291 0.433711 -2.95531
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4563 -0.547
+
+Position: 2.45291 0.433711 -2.95531
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.0542 -0.547
+
+Position: 2.95531 5.84194 -2.95531
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.013 -0.9903
+
+Position: 2.95531 -0.068692 -2.95531
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.013 -0.5058
+
+Position: 2.45291 0.433711 -2.95531
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.0542 -0.547
+
+Position: 2.95531 5.84194 -2.95531
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.013 -0.9903
+
+Position: 2.45291 0.433711 -2.95531
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.0542 -0.547
+
+Position: 2.45291 5.33953 -2.95531
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.0542 -0.9491
+
+Position: -2.95531 5.84194 -2.95531
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4975 -0.9903
+
+Position: 2.95531 5.84194 -2.95531
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.013 -0.9903
+
+Position: 2.45291 5.33953 -2.95531
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.0542 -0.9491
+
+Position: -2.95531 5.84194 -2.95531
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4975 -0.9903
+
+Position: 2.45291 5.33953 -2.95531
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.0542 -0.9491
+
+Position: -2.45291 5.33953 -2.95531
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4563 -0.9491
+
+Position: -2.95531 -0.068692 -2.95531
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4975 -0.5058
+
+Position: -2.95531 5.84194 -2.95531
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4975 -0.9903
+
+Position: -2.45291 5.33953 -2.95531
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4563 -0.9491
+
+Position: -2.95531 -0.068692 -2.95531
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4975 -0.5058
+
+Position: -2.45291 5.33953 -2.95531
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4563 -0.9491
+
+Position: -2.45291 0.433711 -2.95531
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4563 -0.547
+
+Position: -2.95531 5.84194 2.95531
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.013 -0.9903
+
+Position: -2.95531 -0.068692 2.95531
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.013 -0.5058
+
+Position: -2.45291 0.433712 2.95531
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.0542 -0.547
+
+Position: -2.95531 5.84194 2.95531
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.013 -0.9903
+
+Position: -2.45291 0.433712 2.95531
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.0542 -0.547
+
+Position: -2.45291 5.33953 2.95531
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.0542 -0.9491
+
+Position: 2.95531 5.84194 2.95531
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4975 -0.9903
+
+Position: -2.95531 5.84194 2.95531
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.013 -0.9903
+
+Position: -2.45291 5.33953 2.95531
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.0542 -0.9491
+
+Position: 2.95531 5.84194 2.95531
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4975 -0.9903
+
+Position: -2.45291 5.33953 2.95531
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.0542 -0.9491
+
+Position: 2.45291 5.33953 2.95531
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4563 -0.9491
+
+Position: 2.95531 -0.068692 2.95531
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4975 -0.5058
+
+Position: 2.95531 5.84194 2.95531
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4975 -0.9903
+
+Position: 2.45291 5.33953 2.95531
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4563 -0.9491
+
+Position: 2.95531 -0.068692 2.95531
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4975 -0.5058
+
+Position: 2.45291 5.33953 2.95531
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4563 -0.9491
+
+Position: 2.45291 0.433712 2.95531
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4563 -0.547
+
+Position: -2.95531 -0.068692 2.95531
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.013 -0.5058
+
+Position: 2.95531 -0.068692 2.95531
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4975 -0.5058
+
+Position: 2.45291 0.433712 2.95531
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4563 -0.547
+
+Position: -2.95531 -0.068692 2.95531
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.013 -0.5058
+
+Position: 2.45291 0.433712 2.95531
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4563 -0.547
+
+Position: -2.45291 0.433712 2.95531
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.0542 -0.547
+
+Position: -2.8371 5.33953 2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.5534 -0.9452
+
+Position: -2.8371 5.33953 -2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.9477 -0.9452
+
+Position: -2.8371 0.433711 -2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.9477 -0.5509
+
+Position: -2.8371 5.33953 2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.5534 -0.9452
+
+Position: -2.8371 0.433711 -2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.9477 -0.5509
+
+Position: -2.8371 0.433712 2.45291
+Tangent: 0 -1 0
+Normal: -1 0 0
+Tex-Coords: 0.5534 -0.5509
+
+Position: 2.45291 5.72372 2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0581 -0.4524
+
+Position: 2.45291 5.72372 -2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0581 -0.0582
+
+Position: -2.45291 5.72372 -2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4523 -0.0582
+
+Position: 2.45291 5.72372 2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.0581 -0.4524
+
+Position: -2.45291 5.72372 -2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4523 -0.0582
+
+Position: -2.45291 5.72372 2.45291
+Tangent: 1 0 -0
+Normal: 0 1 -0
+Tex-Coords: 0.4523 -0.4524
+
+Position: 2.8371 0.433712 2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.5534 -0.5509
+
+Position: 2.8371 0.433711 -2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.9477 -0.5509
+
+Position: 2.8371 5.33953 -2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.9477 -0.9452
+
+Position: 2.8371 0.433712 2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.5534 -0.5509
+
+Position: 2.8371 5.33953 -2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.9477 -0.9452
+
+Position: 2.8371 5.33953 2.45291
+Tangent: 0 1 0
+Normal: 1 0 0
+Tex-Coords: 0.5534 -0.9452
+
+Position: -2.45291 0.049521 2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.9476 -0.4524
+
+Position: -2.45291 0.049521 -2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.9476 -0.0582
+
+Position: 2.45291 0.049521 -2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.5534 -0.0582
+
+Position: -2.45291 0.049521 2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.9476 -0.4524
+
+Position: 2.45291 0.049521 -2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.5534 -0.0582
+
+Position: 2.45291 0.049521 2.45291
+Tangent: -1 0 0
+Normal: 0 -1 0
+Tex-Coords: 0.5534 -0.4524
+
+Position: -2.45291 0.433711 -2.8371
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4543 -0.549
+
+Position: -2.45291 5.33953 -2.8371
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4543 -0.9471
+
+Position: 2.45291 5.33953 -2.8371
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.0562 -0.9471
+
+Position: -2.45291 0.433711 -2.8371
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.4543 -0.549
+
+Position: 2.45291 5.33953 -2.8371
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.0562 -0.9471
+
+Position: 2.45291 0.433711 -2.8371
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0.0562 -0.549
+
+Position: -2.45291 0.433712 2.8371
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.0562 -0.549
+
+Position: 2.45291 0.433712 2.8371
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4543 -0.549
+
+Position: 2.45291 5.33953 2.8371
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4543 -0.9471
+
+Position: -2.45291 0.433712 2.8371
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.0562 -0.549
+
+Position: 2.45291 5.33953 2.8371
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.4543 -0.9471
+
+Position: -2.45291 5.33953 2.8371
+Tangent: 0 0 1
+Normal: 0 0 1
+Tex-Coords: 0.0562 -0.9471
+
+*****Triangles*****
+0 1 2 0
+3 4 5 0
+6 7 8 0
+9 10 11 0
+12 13 14 0
+15 16 17 0
+18 19 20 0
+21 22 23 0
+24 25 26 0
+27 28 29 0
+30 31 32 0
+33 34 35 0
+36 37 38 0
+39 40 41 0
+42 43 44 0
+45 46 47 0
+48 49 50 0
+51 52 53 0
+54 55 56 0
+57 58 59 0
+60 61 62 0
+63 64 65 0
+66 67 68 0
+69 70 71 0
+72 73 74 0
+75 76 77 0
+78 79 80 0
+81 82 83 0
+84 85 86 0
+87 88 89 0
+90 91 92 0
+93 94 95 0
+96 97 98 0
+99 100 101 0
+102 103 104 0
+105 106 107 0
+108 109 110 0
+111 112 113 0
+114 115 116 0
+117 118 119 0
+120 121 122 0
+123 124 125 0
+126 127 128 0
+129 130 131 0
+132 133 134 0
+135 136 137 0
+138 139 140 0
+141 142 143 0
+144 145 146 0
+147 148 149 0
+150 151 152 0
+153 154 155 0
+156 157 158 0
+159 160 161 0
+162 163 164 0
+165 166 167 0
+168 169 170 0
+171 172 173 0
+174 175 176 0
+177 178 179 0
+180 181 182 0
+183 184 185 0
+186 187 188 0
+189 190 191 0
+192 193 194 0
+195 196 197 0
+198 199 200 0
+201 202 203 0
+204 205 206 0
+207 208 209 0
+210 211 212 0
+213 214 215 0
+216 217 218 0
+219 220 221 0
+222 223 224 0
+225 226 227 0
+228 229 230 0
+231 232 233 0
+234 235 236 0
+237 238 239 0
+240 241 242 0
+243 244 245 0
+246 247 248 0
+249 250 251 0
+252 253 254 0
+255 256 257 0
+258 259 260 0
+261 262 263 0
+264 265 266 0
+267 268 269 0
+270 271 272 0
+273 274 275 0
+276 277 278 0
+279 280 281 0
+282 283 284 0
+285 286 287 0
+288 289 290 0
+291 292 293 0
+294 295 296 0
+297 298 299 0
+300 301 302 0
+303 304 305 0
+306 307 308 0
+309 310 311 0
+312 313 314 0
+315 316 317 0
+318 319 320 0
+321 322 323 0

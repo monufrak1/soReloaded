@@ -1,0 +1,18 @@
+Name Colt.45
+Mesh colt45_arms.m3d
+Max_Ammo 7
+Accuracy 0.03
+Fire_Type SEMI_AUTO
+Bullet_Type NON_PENETRATIVE
+Sound_Effect pistol.wav
+
+Scale 0.4333318
+Position 0.1000002 -0.2666671 0.7666684
+ADS_Position 0 -0.1600003 0.6199999
+Emitter_Position 0 0.1500003 0.4166675
+Max_Animation_Angle 0.2617995
+Animation_Speed 4.5
+Idol_Animation_Offset 0.00625
+Idol_Animation_Speed 0.01
+ADS_Speed 7.183373
+Kick_Back_Amount 1

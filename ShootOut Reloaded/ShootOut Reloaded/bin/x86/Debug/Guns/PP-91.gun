@@ -1,0 +1,18 @@
+Name PP-91
+Mesh kedr_arms.m3d
+Max_Ammo 50
+Accuracy 0.04
+Fire_Type FULL_AUTO
+Bullet_Type NON_PENETRATIVE
+Sound_Effect pistol.wav
+
+Scale 0.5333321
+Position 0.1333336 -0.3833341 1.150002
+ADS_Position -0.004333351 -0.3166668 0.7416664
+Emitter_Position 0 0.2666672 0.3500007
+Max_Animation_Angle 0.1308998
+Animation_Speed 4.25
+Idol_Animation_Offset 0.00625
+Idol_Animation_Speed 0.01
+ADS_Speed 7.066705
+Kick_Back_Amount 1

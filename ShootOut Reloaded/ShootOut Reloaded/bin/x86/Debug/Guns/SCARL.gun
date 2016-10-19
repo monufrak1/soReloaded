@@ -1,0 +1,18 @@
+Name SCAR_L
+Mesh SCARL_arms.m3d
+Max_Ammo 20
+Accuracy 0.02
+Fire_Type FULL_AUTO
+Bullet_Type PENETRATIVE
+Sound_Effect assault_rifle.wav
+
+Scale 0.2666647
+Position 0.08333346 -0.1666669 0.5333345
+ADS_Position 0 -0.1450003 0.3850001
+Emitter_Position 0 0.0500001 0.4500009
+Max_Animation_Angle 0.04363333
+Animation_Speed 2
+Idol_Animation_Offset 0.003125
+Idol_Animation_Speed 0.005
+ADS_Speed 6.050025
+Kick_Back_Amount 1

@@ -1,0 +1,18 @@
+Name Thompson
+Mesh thompson_arms.m3d
+Max_Ammo 20
+Accuracy 0.025
+Fire_Type FULL_AUTO
+Bullet_Type PENETRATIVE
+Sound_Effect thompson_1.wav
+
+Scale 0.483332
+Position 0.0666668 -0.2333338 0.6666682
+ADS_Position -0.00333334 -0.1733336 0.5266666
+Emitter_Position 0 0.1500003 1.100002
+Max_Animation_Angle 0.08726656
+Animation_Speed 3
+Idol_Animation_Offset 0.00625
+Idol_Animation_Speed 0.0075
+ADS_Speed 5.083358
+Kick_Back_Amount 1

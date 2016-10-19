@@ -1,0 +1,18 @@
+Name M4A1
+Mesh m4a1_arms.m3d
+Max_Ammo 30
+Accuracy 0.01
+Fire_Type SEMI_AUTO
+Bullet_Type PENETRATIVE
+Sound_Effect assault_rifle.wav
+
+Scale 0.4166651
+Position 0.1166669 -0.2500004 0.4666677
+ADS_Position 0.01333336 -0.2116669 0.2900002
+Emitter_Position 0 0.1333336 1.016669
+Max_Animation_Angle 0.08726656
+Animation_Speed 2.5
+Idol_Animation_Offset 0.00625
+Idol_Animation_Speed 0.005
+ADS_Speed 4.95001
+Kick_Back_Amount 2

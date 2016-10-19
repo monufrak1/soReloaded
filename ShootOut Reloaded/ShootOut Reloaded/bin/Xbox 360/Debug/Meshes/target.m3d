@@ -1,0 +1,205 @@
+*****target.m3d*****
+#Materials 1
+#Vertices 36
+#Triangles 12
+
+*****Subsets*****
+target.dds
+default_spec.dds
+default_normal.dds
+Reflectivity 0 0 0
+
+*****Vertices*****
+Position: 1 4.84139 -0.056524
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 1 -1
+
+Position: 1 -0.000499 -0.056523
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 1 -0
+
+Position: -1 -0.000499 -0.056523
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0 -0
+
+Position: 1 4.84139 -0.056524
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 1 -1
+
+Position: -1 -0.000499 -0.056523
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0 -0
+
+Position: -1 4.84139 -0.056524
+Tangent: -0 0 -1
+Normal: 0 -0 -1
+Tex-Coords: 0 -1
+
+Position: -1 -0.000499 0.056523
+Tangent: -0 -1 -4e-006
+Normal: -1 -0 -4e-006
+Tex-Coords: 0 -0
+
+Position: -1 4.84139 0.056523
+Tangent: -0 -1 -4e-006
+Normal: -1 -0 -4e-006
+Tex-Coords: 0 -0
+
+Position: -1 4.84139 -0.056524
+Tangent: -0 -1 -4e-006
+Normal: -1 -0 -4e-006
+Tex-Coords: 0 -0
+
+Position: -1 -0.000499 0.056523
+Tangent: -0 -1 -4e-006
+Normal: -1 -0 -4e-006
+Tex-Coords: 0 -0
+
+Position: -1 4.84139 -0.056524
+Tangent: -0 -1 -4e-006
+Normal: -1 -0 -4e-006
+Tex-Coords: 0 -0
+
+Position: -1 -0.000499 -0.056523
+Tangent: -0 -1 -4e-006
+Normal: -1 -0 -4e-006
+Tex-Coords: 0 -0
+
+Position: 1 -0.000499 0.056523
+Tangent: 0 -0 1
+Normal: -0 0 1
+Tex-Coords: 0 -0
+
+Position: 0.999999 4.84139 0.056523
+Tangent: 0 -0 1
+Normal: -0 0 1
+Tex-Coords: 0 -1
+
+Position: -1 -0.000499 0.056523
+Tangent: 0 -0 1
+Normal: -0 0 1
+Tex-Coords: 1 -0
+
+Position: 0.999999 4.84139 0.056523
+Tangent: 0 -0 1
+Normal: -0 0 1
+Tex-Coords: 0 -1
+
+Position: -1 4.84139 0.056523
+Tangent: 0 -0 1
+Normal: -0 0 1
+Tex-Coords: 1 -1
+
+Position: -1 -0.000499 0.056523
+Tangent: 0 -0 1
+Normal: -0 0 1
+Tex-Coords: 1 -0
+
+Position: 1 -0.000499 -0.056523
+Tangent: -0 1 0
+Normal: 1 -0 0
+Tex-Coords: 0 -0
+
+Position: 1 4.84139 -0.056524
+Tangent: -0 1 0
+Normal: 1 -0 0
+Tex-Coords: 0 -0
+
+Position: 1 -0.000499 0.056523
+Tangent: -0 1 0
+Normal: 1 -0 0
+Tex-Coords: 0 -0
+
+Position: 1 4.84139 -0.056524
+Tangent: 0 1 1e-005
+Normal: 1 0 1e-005
+Tex-Coords: 0 -0
+
+Position: 0.999999 4.84139 0.056523
+Tangent: 0 1 1e-005
+Normal: 1 0 1e-005
+Tex-Coords: 0 -0
+
+Position: 1 -0.000499 0.056523
+Tangent: 0 1 1e-005
+Normal: 1 0 1e-005
+Tex-Coords: 0 -0
+
+Position: 1 4.84139 -0.056524
+Tangent: 1 0 0
+Normal: 0 1 0
+Tex-Coords: 0 -0
+
+Position: -1 4.84139 -0.056524
+Tangent: 1 0 0
+Normal: 0 1 0
+Tex-Coords: 0 -0
+
+Position: 0.999999 4.84139 0.056523
+Tangent: 1 0 0
+Normal: 0 1 0
+Tex-Coords: 0 -0
+
+Position: -1 4.84139 -0.056524
+Tangent: 1 0 0
+Normal: 0 1 0
+Tex-Coords: 0 -0
+
+Position: -1 4.84139 0.056523
+Tangent: 1 0 0
+Normal: 0 1 0
+Tex-Coords: 0 -0
+
+Position: 0.999999 4.84139 0.056523
+Tangent: 1 0 0
+Normal: 0 1 0
+Tex-Coords: 0 -0
+
+Position: 1 -0.000499 -0.056523
+Tangent: -1 -0 0
+Normal: -0 -1 0
+Tex-Coords: 0 -0
+
+Position: 1 -0.000499 0.056523
+Tangent: -1 -0 0
+Normal: -0 -1 0
+Tex-Coords: 0 -0
+
+Position: -1 -0.000499 0.056523
+Tangent: -1 -0 0
+Normal: -0 -1 0
+Tex-Coords: 0 -0
+
+Position: 1 -0.000499 -0.056523
+Tangent: -1 -0 0
+Normal: -0 -1 0
+Tex-Coords: 0 -0
+
+Position: -1 -0.000499 0.056523
+Tangent: -1 -0 0
+Normal: -0 -1 0
+Tex-Coords: 0 -0
+
+Position: -1 -0.000499 -0.056523
+Tangent: -1 -0 0
+Normal: -0 -1 0
+Tex-Coords: 0 -0
+
+*****Triangles*****
+0 1 2 0
+3 4 5 0
+6 7 8 0
+9 10 11 0
+12 13 14 0
+15 16 17 0
+18 19 20 0
+21 22 23 0
+24 25 26 0
+27 28 29 0
+30 31 32 0
+33 34 35 0
